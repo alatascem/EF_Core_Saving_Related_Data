@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_Core_Saving_Related_Data", "EF_Core_Saving_Related_Data\EF_Core_Saving_Related_Data.csproj", "{9554E5E8-8D5F-4A08-9F1E-1D5C872BA376}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9554E5E8-8D5F-4A08-9F1E-1D5C872BA376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9554E5E8-8D5F-4A08-9F1E-1D5C872BA376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9554E5E8-8D5F-4A08-9F1E-1D5C872BA376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9554E5E8-8D5F-4A08-9F1E-1D5C872BA376}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E386ACA3-14A7-410B-ACFB-CD3A2AF15737}
+	EndGlobalSection
+EndGlobal
